@@ -1,0 +1,11 @@
+C:\Users\yigit\Desktop\BlogSheet\BlogServer\Core\Blog.Domain\bin\Debug\net9.0\Blog.Domain.deps.json
+C:\Users\yigit\Desktop\BlogSheet\BlogServer\Core\Blog.Domain\bin\Debug\net9.0\Blog.Domain.dll
+C:\Users\yigit\Desktop\BlogSheet\BlogServer\Core\Blog.Domain\bin\Debug\net9.0\Blog.Domain.pdb
+C:\Users\yigit\Desktop\BlogSheet\BlogServer\Core\Blog.Domain\obj\Debug\net9.0\Blog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yigit\Desktop\BlogSheet\BlogServer\Core\Blog.Domain\obj\Debug\net9.0\Blog.Domain.AssemblyInfoInputs.cache
+C:\Users\yigit\Desktop\BlogSheet\BlogServer\Core\Blog.Domain\obj\Debug\net9.0\Blog.Domain.AssemblyInfo.cs
+C:\Users\yigit\Desktop\BlogSheet\BlogServer\Core\Blog.Domain\obj\Debug\net9.0\Blog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\yigit\Desktop\BlogSheet\BlogServer\Core\Blog.Domain\obj\Debug\net9.0\Blog.Domain.dll
+C:\Users\yigit\Desktop\BlogSheet\BlogServer\Core\Blog.Domain\obj\Debug\net9.0\refint\Blog.Domain.dll
+C:\Users\yigit\Desktop\BlogSheet\BlogServer\Core\Blog.Domain\obj\Debug\net9.0\Blog.Domain.pdb
+C:\Users\yigit\Desktop\BlogSheet\BlogServer\Core\Blog.Domain\obj\Debug\net9.0\ref\Blog.Domain.dll

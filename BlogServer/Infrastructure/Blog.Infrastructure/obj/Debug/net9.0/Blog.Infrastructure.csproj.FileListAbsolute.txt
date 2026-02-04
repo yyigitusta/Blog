@@ -1,0 +1,11 @@
+C:\Users\yigit\Desktop\BlogSheet\BlogServer\Infrastructure\Blog.Infrastructure\bin\Debug\net9.0\Blog.Infrastructure.deps.json
+C:\Users\yigit\Desktop\BlogSheet\BlogServer\Infrastructure\Blog.Infrastructure\bin\Debug\net9.0\Blog.Infrastructure.dll
+C:\Users\yigit\Desktop\BlogSheet\BlogServer\Infrastructure\Blog.Infrastructure\bin\Debug\net9.0\Blog.Infrastructure.pdb
+C:\Users\yigit\Desktop\BlogSheet\BlogServer\Infrastructure\Blog.Infrastructure\obj\Debug\net9.0\Blog.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yigit\Desktop\BlogSheet\BlogServer\Infrastructure\Blog.Infrastructure\obj\Debug\net9.0\Blog.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\yigit\Desktop\BlogSheet\BlogServer\Infrastructure\Blog.Infrastructure\obj\Debug\net9.0\Blog.Infrastructure.AssemblyInfo.cs
+C:\Users\yigit\Desktop\BlogSheet\BlogServer\Infrastructure\Blog.Infrastructure\obj\Debug\net9.0\Blog.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\yigit\Desktop\BlogSheet\BlogServer\Infrastructure\Blog.Infrastructure\obj\Debug\net9.0\Blog.Infrastructure.dll
+C:\Users\yigit\Desktop\BlogSheet\BlogServer\Infrastructure\Blog.Infrastructure\obj\Debug\net9.0\refint\Blog.Infrastructure.dll
+C:\Users\yigit\Desktop\BlogSheet\BlogServer\Infrastructure\Blog.Infrastructure\obj\Debug\net9.0\Blog.Infrastructure.pdb
+C:\Users\yigit\Desktop\BlogSheet\BlogServer\Infrastructure\Blog.Infrastructure\obj\Debug\net9.0\ref\Blog.Infrastructure.dll

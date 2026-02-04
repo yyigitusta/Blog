@@ -1,0 +1,22 @@
+﻿using Microsoft.Extensions.DependencyInjection;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Reflection;
+using System.Runtime.CompilerServices;
+using System.Text;
+using System.Threading.Tasks;
+using AutoMapper;
+using AutoMapper.Extensions.Microsoft.DependencyInjection;
+
+namespace Blog.Application.Extensions
+{
+    public static class ServiceRegistrations
+    {
+        public static void AddApplication(this IServiceCollection services)
+        {
+            // Use the assemblies overload so the correct AddAutoMapper extension is selected
+            services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+        }
+    }
+}

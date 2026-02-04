@@ -1,0 +1,28 @@
+﻿using Microsoft.Extensions.DependencyInjection;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Reflection;
+using System.Runtime.CompilerServices;
+using System.Text;
+using System.Threading.Tasks;
+using AutoMapper;
+
+namespace Blog.Application.Extensions
+{
+    public static class ServiceRegistrations
+    {
+        public static void AddApplication(this IServiceCollection services)
+        {
+            // Configure AutoMapper manually to avoid requiring AutoMapper.Extensions package
+            var mapperConfig = new MapperConfiguration(cfg =>
+            {
+                cfg.AddMaps(Assembly.GetExecutingAssembly());
+            });
+
+            IMapper mapper = mapperConfig.CreateMapper();
+            services.AddSingleton(mapper);
+            services.AddSingleton<IConfigurationProvider>(mapperConfig);
+        }
+    }
+}
