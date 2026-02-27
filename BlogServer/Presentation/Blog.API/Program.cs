@@ -1,5 +1,8 @@
+using Blog.API.CustomMiddlewares;
+using Blog.API.Endpoints.Registration;
 using Blog.Application.Extensions;
 using Blog.Persistence.Extensions;
+using Scalar.AspNetCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,12 +19,14 @@ var app = builder.Build();
 if (app.Environment.IsDevelopment())
 {
     app.MapOpenApi();
+    app.MapScalarApiReference();
 }
-
+app.UseMiddleware<CustomExceptionHandlingMiddleware>();
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
 app.MapControllers();
-
+app.MapGroup("/api")
+    .RegisterEndpoints();
 app.Run();

@@ -1,6 +1,7 @@
 ﻿using Blog.Application.Contracts.Persistence;
 using Blog.Persistence.Concrete;
 using Blog.Persistence.Context;
+using Blog.Persistence.Interceptors;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -14,6 +15,7 @@ namespace Blog.Persistence.Extensions
             services.AddDbContext<AppDbContext>(options =>
             {
                 options.UseSqlServer(configuration.GetConnectionString("SqlConnection"));
+                options.AddInterceptors(new AuditDbContextInterceptor());
             });
             services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddScoped(typeof(IRepository<>), typeof(GenericRepository<>));

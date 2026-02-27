@@ -8,6 +8,6 @@ namespace Blog.Application.Contracts.Persistence
 {
     public interface IUnitOfWork
     {
-        Task SaveChangesAsync();
+        Task <bool> SaveChangesAsync();
     }
 }

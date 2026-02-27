@@ -13,3 +13,4 @@ C:\Users\yigit\Desktop\BlogSheet\BlogServer\Core\Blog.Application\obj\Debug\net9
 C:\Users\yigit\Desktop\BlogSheet\BlogServer\Core\Blog.Application\obj\Debug\net9.0\refint\Blog.Application.dll
 C:\Users\yigit\Desktop\BlogSheet\BlogServer\Core\Blog.Application\obj\Debug\net9.0\Blog.Application.pdb
 C:\Users\yigit\Desktop\BlogSheet\BlogServer\Core\Blog.Application\obj\Debug\net9.0\ref\Blog.Application.dll
+C:\Users\yigit\Desktop\BlogSheet\BlogServer\Core\Blog.Application\obj\Debug\net9.0\Blog.Application.sourcelink.json

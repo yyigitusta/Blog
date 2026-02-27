@@ -13,11 +13,16 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="Scalar.AspNetCore" Version="2.12.50" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\..\Core\Blog.Application\Blog.Application.csproj" />
     <ProjectReference Include="..\..\Infrastructure\Blog.Persistence\Blog.Persistence.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Controllers\" />
   </ItemGroup>
 
 </Project>

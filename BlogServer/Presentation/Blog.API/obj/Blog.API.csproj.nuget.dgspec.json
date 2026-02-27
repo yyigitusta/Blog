@@ -303,6 +303,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.12, )"
+            },
+            "Scalar.AspNetCore": {
+              "target": "Package",
+              "version": "[2.12.50, )"
             }
           },
           "imports": [

@@ -17,3 +17,4 @@ C:\Users\yigit\Desktop\BlogSheet\BlogServer\Infrastructure\Blog.Persistence\obj\
 C:\Users\yigit\Desktop\BlogSheet\BlogServer\Infrastructure\Blog.Persistence\obj\Debug\net9.0\Blog.Persistence.pdb
 C:\Users\yigit\Desktop\BlogSheet\BlogServer\Infrastructure\Blog.Persistence\obj\Debug\net9.0\Blog.Persistence.genruntimeconfig.cache
 C:\Users\yigit\Desktop\BlogSheet\BlogServer\Infrastructure\Blog.Persistence\obj\Debug\net9.0\ref\Blog.Persistence.dll
+C:\Users\yigit\Desktop\BlogSheet\BlogServer\Infrastructure\Blog.Persistence\obj\Debug\net9.0\Blog.Persistence.sourcelink.json
