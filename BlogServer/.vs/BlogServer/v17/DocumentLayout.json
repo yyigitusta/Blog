@@ -3,64 +3,160 @@
   "WorkspaceRootPath": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.application\\features\\categories\\handlers\\updatecategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\features\\categories\\handlers\\updatecategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{750022F6-F1FF-42C7-BFD8-19D5059F62E5}|Infrastructure\\Blog.Persistence\\Blog.Persistence.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\infrastructure\\blog.persistence\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750022F6-F1FF-42C7-BFD8-19D5059F62E5}|Infrastructure\\Blog.Persistence\\Blog.Persistence.csproj|solutionrelative:infrastructure\\blog.persistence\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.application\\features\\categories\\handlers\\getcategoryqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\features\\categories\\handlers\\getcategoryqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.application\\features\\blogs\\handlers\\getblogsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\features\\blogs\\handlers\\getblogsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.application\\features\\categories\\handlers\\getcategorybyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\features\\categories\\handlers\\getcategorybyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.application\\features\\blogs\\queries\\getblogsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\features\\blogs\\queries\\getblogsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.application\\features\\categories\\handlers\\createcategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\features\\categories\\handlers\\createcategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.application\\features\\categories\\mappings\\categorymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\features\\categories\\mappings\\categorymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.application\\extensions\\serviceregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\extensions\\serviceregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EB096EE-874C-42DD-B649-B2363F343061}|Presentation\\Blog.API\\Blog.API.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\presentation\\blog.api\\endpoints\\blogendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EB096EE-874C-42DD-B649-B2363F343061}|Presentation\\Blog.API\\Blog.API.csproj|solutionrelative:presentation\\blog.api\\endpoints\\blogendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.application\\features\\categories\\commands\\updatecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\features\\categories\\commands\\updatecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.application\\features\\categories\\commands\\removecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\features\\categories\\commands\\removecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.application\\features\\categories\\commands\\createcategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\features\\categories\\commands\\createcategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.application\\features\\blogs\\mappings\\blogmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\features\\blogs\\mappings\\blogmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.application\\features\\blogs\\result\\getblogsqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\features\\blogs\\result\\getblogsqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088036A1-7076-4215-B8A0-54EA5745E403}|Core\\Blog.Domain\\Blog.Domain.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088036A1-7076-4215-B8A0-54EA5745E403}|Core\\Blog.Domain\\Blog.Domain.csproj|solutionrelative:core\\blog.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.application\\features\\users\\handlers\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\features\\users\\handlers\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.application\\features\\users\\commands\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\features\\users\\commands\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB096EE-874C-42DD-B649-B2363F343061}|Presentation\\Blog.API\\Blog.API.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\presentation\\blog.api\\endpoints\\userendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EB096EE-874C-42DD-B649-B2363F343061}|Presentation\\Blog.API\\Blog.API.csproj|solutionrelative:presentation\\blog.api\\endpoints\\userendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{750022F6-F1FF-42C7-BFD8-19D5059F62E5}|Infrastructure\\Blog.Persistence\\Blog.Persistence.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\infrastructure\\blog.persistence\\interceptors\\auditdbcontextinterceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{750022F6-F1FF-42C7-BFD8-19D5059F62E5}|Infrastructure\\Blog.Persistence\\Blog.Persistence.csproj|solutionrelative:infrastructure\\blog.persistence\\interceptors\\auditdbcontextinterceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{750022F6-F1FF-42C7-BFD8-19D5059F62E5}|Infrastructure\\Blog.Persistence\\Blog.Persistence.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\infrastructure\\blog.persistence\\extensions\\serviceregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{750022F6-F1FF-42C7-BFD8-19D5059F62E5}|Infrastructure\\Blog.Persistence\\Blog.Persistence.csproj|solutionrelative:infrastructure\\blog.persistence\\extensions\\serviceregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.application\\features\\users\\mappings\\usingmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\features\\users\\mappings\\usingmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.application\\features\\users\\validator\\createuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\features\\users\\validator\\createuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8EB096EE-874C-42DD-B649-B2363F343061}|Presentation\\Blog.API\\Blog.API.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\presentation\\blog.api\\endpoints\\categoryendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EB096EE-874C-42DD-B649-B2363F343061}|Presentation\\Blog.API\\Blog.API.csproj|solutionrelative:presentation\\blog.api\\endpoints\\categoryendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.application\\features\\categories\\queries\\getcategorybyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\features\\categories\\queries\\getcategorybyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EB096EE-874C-42DD-B649-B2363F343061}|Presentation\\Blog.API\\Blog.API.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\presentation\\blog.api\\endpoints\\registration\\endpointregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EB096EE-874C-42DD-B649-B2363F343061}|Presentation\\Blog.API\\Blog.API.csproj|solutionrelative:presentation\\blog.api\\endpoints\\registration\\endpointregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.application\\features\\base\\baseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\features\\base\\baseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.application\\features\\categories\\queries\\getcategoryquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\features\\categories\\queries\\getcategoryquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.application\\features\\categories\\results\\getcategorybyidqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\features\\categories\\results\\getcategorybyidqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.application\\features\\categories\\queries\\getcategorybyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\features\\categories\\queries\\getcategorybyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.application\\features\\categories\\results\\getcategoryqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\features\\categories\\results\\getcategoryqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.application\\features\\categories\\handlers\\createcategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\features\\categories\\handlers\\createcategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088036A1-7076-4215-B8A0-54EA5745E403}|Core\\Blog.Domain\\Blog.Domain.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.domain\\entities\\eblog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088036A1-7076-4215-B8A0-54EA5745E403}|Core\\Blog.Domain\\Blog.Domain.csproj|solutionrelative:core\\blog.domain\\entities\\eblog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Infrastructure\\Blog.Persistence\\Migrations\\20260305004743_relationbetweenblogandcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Blog.Persistence\\Migrations\\20260305004743_relationbetweenblogandcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088036A1-7076-4215-B8A0-54EA5745E403}|Core\\Blog.Domain\\Blog.Domain.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.domain\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088036A1-7076-4215-B8A0-54EA5745E403}|Core\\Blog.Domain\\Blog.Domain.csproj|solutionrelative:core\\blog.domain\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750022F6-F1FF-42C7-BFD8-19D5059F62E5}|Infrastructure\\Blog.Persistence\\Blog.Persistence.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\infrastructure\\blog.persistence\\extensions\\serviceregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750022F6-F1FF-42C7-BFD8-19D5059F62E5}|Infrastructure\\Blog.Persistence\\Blog.Persistence.csproj|solutionrelative:infrastructure\\blog.persistence\\extensions\\serviceregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088036A1-7076-4215-B8A0-54EA5745E403}|Core\\Blog.Domain\\Blog.Domain.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.domain\\entities\\subcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088036A1-7076-4215-B8A0-54EA5745E403}|Core\\Blog.Domain\\Blog.Domain.csproj|solutionrelative:core\\blog.domain\\entities\\subcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088036A1-7076-4215-B8A0-54EA5745E403}|Core\\Blog.Domain\\Blog.Domain.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.domain\\entities\\social.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088036A1-7076-4215-B8A0-54EA5745E403}|Core\\Blog.Domain\\Blog.Domain.csproj|solutionrelative:core\\blog.domain\\entities\\social.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088036A1-7076-4215-B8A0-54EA5745E403}|Core\\Blog.Domain\\Blog.Domain.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.domain\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088036A1-7076-4215-B8A0-54EA5745E403}|Core\\Blog.Domain\\Blog.Domain.csproj|solutionrelative:core\\blog.domain\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088036A1-7076-4215-B8A0-54EA5745E403}|Core\\Blog.Domain\\Blog.Domain.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.domain\\entities\\contacinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088036A1-7076-4215-B8A0-54EA5745E403}|Core\\Blog.Domain\\Blog.Domain.csproj|solutionrelative:core\\blog.domain\\entities\\contacinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088036A1-7076-4215-B8A0-54EA5745E403}|Core\\Blog.Domain\\Blog.Domain.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088036A1-7076-4215-B8A0-54EA5745E403}|Core\\Blog.Domain\\Blog.Domain.csproj|solutionrelative:core\\blog.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088036A1-7076-4215-B8A0-54EA5745E403}|Core\\Blog.Domain\\Blog.Domain.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.domain\\entities\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088036A1-7076-4215-B8A0-54EA5745E403}|Core\\Blog.Domain\\Blog.Domain.csproj|solutionrelative:core\\blog.domain\\entities\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Infrastructure\\Blog.Persistence\\Migrations\\20260305003626_identityAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Blog.Persistence\\Migrations\\20260305003626_identityAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.application\\features\\categories\\mappings\\categorymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\features\\categories\\mappings\\categorymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.application\\features\\categories\\handlers\\removecategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\features\\categories\\handlers\\removecategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.application\\features\\categories\\handlers\\updatecategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\features\\categories\\handlers\\updatecategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.application\\contracts\\persistence\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\contracts\\persistence\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.application\\features\\base\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\features\\base\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.application\\features\\categories\\validators\\updatecategoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\features\\categories\\validators\\updatecategoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8EB096EE-874C-42DD-B649-B2363F343061}|Presentation\\Blog.API\\Blog.API.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\presentation\\blog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,6 +167,30 @@
       "RelativeMoniker": "D:0:0:{8EB096EE-874C-42DD-B649-B2363F343061}|Presentation\\Blog.API\\Blog.API.csproj|solutionrelative:presentation\\blog.api\\custommiddlewares\\customexceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.application\\features\\categories\\handlers\\getcategoryqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\features\\categories\\handlers\\getcategoryqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.application\\contracts\\persistence\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\contracts\\persistence\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.application\\features\\categories\\handlers\\getcategorybyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\features\\categories\\handlers\\getcategorybyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.application\\extensions\\serviceregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\extensions\\serviceregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.application\\features\\categories\\results\\getcategorybyidqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\features\\categories\\results\\getcategorybyidqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.application\\features\\categories\\results\\getcategoryqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\features\\categories\\results\\getcategoryqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -79,24 +199,8 @@
       "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\features\\categories\\validators\\createcategoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.application\\features\\categories\\commands\\createcategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\features\\categories\\commands\\createcategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{750022F6-F1FF-42C7-BFD8-19D5059F62E5}|Infrastructure\\Blog.Persistence\\Blog.Persistence.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\infrastructure\\blog.persistence\\concrete\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{750022F6-F1FF-42C7-BFD8-19D5059F62E5}|Infrastructure\\Blog.Persistence\\Blog.Persistence.csproj|solutionrelative:infrastructure\\blog.persistence\\concrete\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.application\\contracts\\persistence\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\contracts\\persistence\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.application\\features\\base\\baseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\features\\base\\baseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{088036A1-7076-4215-B8A0-54EA5745E403}|Core\\Blog.Domain\\Blog.Domain.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.domain\\entities\\social.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{088036A1-7076-4215-B8A0-54EA5745E403}|Core\\Blog.Domain\\Blog.Domain.csproj|solutionrelative:core\\blog.domain\\entities\\social.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{750022F6-F1FF-42C7-BFD8-19D5059F62E5}|Infrastructure\\Blog.Persistence\\Blog.Persistence.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\infrastructure\\blog.persistence\\concrete\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -107,20 +211,8 @@
       "RelativeMoniker": "D:0:0:{8EB096EE-874C-42DD-B649-B2363F343061}|Presentation\\Blog.API\\Blog.API.csproj|solutionrelative:presentation\\blog.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EB096EE-874C-42DD-B649-B2363F343061}|Presentation\\Blog.API\\Blog.API.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\presentation\\blog.api\\endpoints\\registration\\endpointregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EB096EE-874C-42DD-B649-B2363F343061}|Presentation\\Blog.API\\Blog.API.csproj|solutionrelative:presentation\\blog.api\\endpoints\\registration\\endpointregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{088036A1-7076-4215-B8A0-54EA5745E403}|Core\\Blog.Domain\\Blog.Domain.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{088036A1-7076-4215-B8A0-54EA5745E403}|Core\\Blog.Domain\\Blog.Domain.csproj|solutionrelative:core\\blog.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{088036A1-7076-4215-B8A0-54EA5745E403}|Core\\Blog.Domain\\Blog.Domain.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.domain\\entities\\common\\baseentitiy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{088036A1-7076-4215-B8A0-54EA5745E403}|Core\\Blog.Domain\\Blog.Domain.csproj|solutionrelative:core\\blog.domain\\entities\\common\\baseentitiy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.application\\contracts\\persistence\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E7B7A4E-8A1A-458C-B6FB-D1E5C4FAAEAC}|Core\\Blog.Application\\Blog.Application.csproj|solutionrelative:core\\blog.application\\contracts\\persistence\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{750022F6-F1FF-42C7-BFD8-19D5059F62E5}|Infrastructure\\Blog.Persistence\\Blog.Persistence.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\infrastructure\\blog.persistence\\migrations\\20260203235759_mig_inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -130,24 +222,8 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yigit\\AppData\\Roaming\\Microsoft\\UserSecrets\\f534fb5f-d6eb-4842-ae03-55fe27188848\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{750022F6-F1FF-42C7-BFD8-19D5059F62E5}|Infrastructure\\Blog.Persistence\\Blog.Persistence.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\infrastructure\\blog.persistence\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{750022F6-F1FF-42C7-BFD8-19D5059F62E5}|Infrastructure\\Blog.Persistence\\Blog.Persistence.csproj|solutionrelative:infrastructure\\blog.persistence\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{750022F6-F1FF-42C7-BFD8-19D5059F62E5}|Infrastructure\\Blog.Persistence\\Blog.Persistence.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\infrastructure\\blog.persistence\\blog.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{750022F6-F1FF-42C7-BFD8-19D5059F62E5}|Infrastructure\\Blog.Persistence\\Blog.Persistence.csproj|solutionrelative:infrastructure\\blog.persistence\\blog.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{088036A1-7076-4215-B8A0-54EA5745E403}|Core\\Blog.Domain\\Blog.Domain.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.domain\\entities\\eblog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{088036A1-7076-4215-B8A0-54EA5745E403}|Core\\Blog.Domain\\Blog.Domain.csproj|solutionrelative:core\\blog.domain\\entities\\eblog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{088036A1-7076-4215-B8A0-54EA5745E403}|Core\\Blog.Domain\\Blog.Domain.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.domain\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{088036A1-7076-4215-B8A0-54EA5745E403}|Core\\Blog.Domain\\Blog.Domain.csproj|solutionrelative:core\\blog.domain\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{088036A1-7076-4215-B8A0-54EA5745E403}|Core\\Blog.Domain\\Blog.Domain.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.domain\\entities\\contacinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{088036A1-7076-4215-B8A0-54EA5745E403}|Core\\Blog.Domain\\Blog.Domain.csproj|solutionrelative:core\\blog.domain\\entities\\contacinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{088036A1-7076-4215-B8A0-54EA5745E403}|Core\\Blog.Domain\\Blog.Domain.csproj|c:\\users\\yigit\\desktop\\blogsheet\\blogserver\\core\\blog.domain\\blog.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -165,7 +241,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -173,65 +249,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GetCategoryQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Handlers\\GetCategoryQueryHandler.cs",
-              "RelativeDocumentMoniker": "Core\\Blog.Application\\Features\\Categories\\Handlers\\GetCategoryQueryHandler.cs",
-              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Handlers\\GetCategoryQueryHandler.cs",
-              "RelativeToolTip": "Core\\Blog.Application\\Features\\Categories\\Handlers\\GetCategoryQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABNAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "GetBlogsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Blogs\\Queries\\GetBlogsQuery.cs",
+              "RelativeDocumentMoniker": "Core\\Blog.Application\\Features\\Blogs\\Queries\\GetBlogsQuery.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Blogs\\Queries\\GetBlogsQuery.cs",
+              "RelativeToolTip": "Core\\Blog.Application\\Features\\Blogs\\Queries\\GetBlogsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T01:09:42.475Z",
+              "WhenOpened": "2026-03-05T00:52:49.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetBlogsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Blogs\\Handlers\\GetBlogsQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Blog.Application\\Features\\Blogs\\Handlers\\GetBlogsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Blogs\\Handlers\\GetBlogsQueryHandler.cs",
+              "RelativeToolTip": "Core\\Blog.Application\\Features\\Blogs\\Handlers\\GetBlogsQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T00:54:15.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UpdateCategoryCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Handlers\\UpdateCategoryCommandHandler.cs",
-              "RelativeDocumentMoniker": "Core\\Blog.Application\\Features\\Categories\\Handlers\\UpdateCategoryCommandHandler.cs",
-              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Handlers\\UpdateCategoryCommandHandler.cs",
-              "RelativeToolTip": "Core\\Blog.Application\\Features\\Categories\\Handlers\\UpdateCategoryCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAAAAAAAAAAAAAA==",
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Infrastructure\\Blog.Persistence\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Blog.Persistence\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Infrastructure\\Blog.Persistence\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Blog.Persistence\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T22:58:11.513Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GetCategoryByIdQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Handlers\\GetCategoryByIdQueryHandler.cs",
-              "RelativeDocumentMoniker": "Core\\Blog.Application\\Features\\Categories\\Handlers\\GetCategoryByIdQueryHandler.cs",
-              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Handlers\\GetCategoryByIdQueryHandler.cs",
-              "RelativeToolTip": "Core\\Blog.Application\\Features\\Categories\\Handlers\\GetCategoryByIdQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T21:58:37.21Z",
+              "WhenOpened": "2026-02-03T23:20:04.732Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CreateCategoryCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Handlers\\CreateCategoryCommandHandler.cs",
-              "RelativeDocumentMoniker": "Core\\Blog.Application\\Features\\Categories\\Handlers\\CreateCategoryCommandHandler.cs",
-              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Handlers\\CreateCategoryCommandHandler.cs",
-              "RelativeToolTip": "Core\\Blog.Application\\Features\\Categories\\Handlers\\CreateCategoryCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
+              "Title": "BlogEndPoints.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Presentation\\Blog.API\\Endpoints\\BlogEndPoints.cs",
+              "RelativeDocumentMoniker": "Presentation\\Blog.API\\Endpoints\\BlogEndPoints.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Presentation\\Blog.API\\Endpoints\\BlogEndPoints.cs",
+              "RelativeToolTip": "Presentation\\Blog.API\\Endpoints\\BlogEndPoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T21:10:17.249Z",
+              "WhenOpened": "2026-03-05T01:07:29.031Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "UpdateCategoryCommand.cs",
               "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Commands\\UpdateCategoryCommand.cs",
               "RelativeDocumentMoniker": "Core\\Blog.Application\\Features\\Categories\\Commands\\UpdateCategoryCommand.cs",
               "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Commands\\UpdateCategoryCommand.cs",
               "RelativeToolTip": "Core\\Blog.Application\\Features\\Categories\\Commands\\UpdateCategoryCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-27T22:54:57.209Z",
               "EditorCaption": ""
@@ -239,188 +315,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ServiceRegistrations.cs",
-              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Extensions\\ServiceRegistrations.cs",
-              "RelativeDocumentMoniker": "Core\\Blog.Application\\Extensions\\ServiceRegistrations.cs",
-              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Extensions\\ServiceRegistrations.cs",
-              "RelativeToolTip": "Core\\Blog.Application\\Extensions\\ServiceRegistrations.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABFAAAAAAAAAA==",
+              "Title": "RemoveCategoryCommand.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Commands\\RemoveCategoryCommand.cs",
+              "RelativeDocumentMoniker": "Core\\Blog.Application\\Features\\Categories\\Commands\\RemoveCategoryCommand.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Commands\\RemoveCategoryCommand.cs",
+              "RelativeToolTip": "Core\\Blog.Application\\Features\\Categories\\Commands\\RemoveCategoryCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T01:17:27.185Z",
+              "WhenOpened": "2026-03-04T23:30:17.251Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CategoryMappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Mappings\\CategoryMappingProfile.cs",
-              "RelativeDocumentMoniker": "Core\\Blog.Application\\Features\\Categories\\Mappings\\CategoryMappingProfile.cs",
-              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Mappings\\CategoryMappingProfile.cs",
-              "RelativeToolTip": "Core\\Blog.Application\\Features\\Categories\\Mappings\\CategoryMappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T01:14:49.856Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AuditDbContextInterceptor.cs",
-              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Infrastructure\\Blog.Persistence\\Interceptors\\AuditDbContextInterceptor.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Blog.Persistence\\Interceptors\\AuditDbContextInterceptor.cs",
-              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Infrastructure\\Blog.Persistence\\Interceptors\\AuditDbContextInterceptor.cs",
-              "RelativeToolTip": "Infrastructure\\Blog.Persistence\\Interceptors\\AuditDbContextInterceptor.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T22:33:56.034Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ServiceRegistrations.cs",
-              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Infrastructure\\Blog.Persistence\\Extensions\\ServiceRegistrations.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Blog.Persistence\\Extensions\\ServiceRegistrations.cs",
-              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Infrastructure\\Blog.Persistence\\Extensions\\ServiceRegistrations.cs",
-              "RelativeToolTip": "Infrastructure\\Blog.Persistence\\Extensions\\ServiceRegistrations.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T23:42:56.756Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CategoryEndpoints.cs",
-              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Presentation\\Blog.API\\Endpoints\\CategoryEndpoints.cs",
-              "RelativeDocumentMoniker": "Presentation\\Blog.API\\Endpoints\\CategoryEndpoints.cs",
-              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Presentation\\Blog.API\\Endpoints\\CategoryEndpoints.cs",
-              "RelativeToolTip": "Presentation\\Blog.API\\Endpoints\\CategoryEndpoints.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T20:42:02.884Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GetCategoryByIdQuery.cs",
-              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Queries\\GetCategoryByIdQuery.cs",
-              "RelativeDocumentMoniker": "Core\\Blog.Application\\Features\\Categories\\Queries\\GetCategoryByIdQuery.cs",
-              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Queries\\GetCategoryByIdQuery.cs",
-              "RelativeToolTip": "Core\\Blog.Application\\Features\\Categories\\Queries\\GetCategoryByIdQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T21:54:15.777Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "GetCategoryQuery.cs",
-              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Queries\\GetCategoryQuery.cs",
-              "RelativeDocumentMoniker": "Core\\Blog.Application\\Features\\Categories\\Queries\\GetCategoryQuery.cs",
-              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Queries\\GetCategoryQuery.cs",
-              "RelativeToolTip": "Core\\Blog.Application\\Features\\Categories\\Queries\\GetCategoryQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T00:56:39.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "GetCategoryByIdQueryResult.cs",
-              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Results\\GetCategoryByIdQueryResult.cs",
-              "RelativeDocumentMoniker": "Core\\Blog.Application\\Features\\Categories\\Results\\GetCategoryByIdQueryResult.cs",
-              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Results\\GetCategoryByIdQueryResult.cs",
-              "RelativeToolTip": "Core\\Blog.Application\\Features\\Categories\\Results\\GetCategoryByIdQueryResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T21:55:24.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "GetCategoryQueryResult.cs",
-              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Results\\GetCategoryQueryResult.cs",
-              "RelativeDocumentMoniker": "Core\\Blog.Application\\Features\\Categories\\Results\\GetCategoryQueryResult.cs",
-              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Results\\GetCategoryQueryResult.cs",
-              "RelativeToolTip": "Core\\Blog.Application\\Features\\Categories\\Results\\GetCategoryQueryResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T00:52:26.998Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "BaseDto.cs",
-              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Base\\BaseDto.cs",
-              "RelativeDocumentMoniker": "Core\\Blog.Application\\Features\\Base\\BaseDto.cs",
-              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Base\\BaseDto.cs",
-              "RelativeToolTip": "Core\\Blog.Application\\Features\\Base\\BaseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T00:53:31.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Presentation\\Blog.API\\Program.cs",
-              "RelativeDocumentMoniker": "Presentation\\Blog.API\\Program.cs",
-              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Presentation\\Blog.API\\Program.cs",
-              "RelativeToolTip": "Presentation\\Blog.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T23:47:30.854Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CustomExceptionHandlingMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Presentation\\Blog.API\\CustomMiddlewares\\CustomExceptionHandlingMiddleware.cs",
-              "RelativeDocumentMoniker": "Presentation\\Blog.API\\CustomMiddlewares\\CustomExceptionHandlingMiddleware.cs",
-              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Presentation\\Blog.API\\CustomMiddlewares\\CustomExceptionHandlingMiddleware.cs",
-              "RelativeToolTip": "Presentation\\Blog.API\\CustomMiddlewares\\CustomExceptionHandlingMiddleware.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T21:37:29.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ValidationBehavior.cs",
-              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Behaviors\\ValidationBehavior.cs",
-              "RelativeDocumentMoniker": "Core\\Blog.Application\\Behaviors\\ValidationBehavior.cs",
-              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Behaviors\\ValidationBehavior.cs",
-              "RelativeToolTip": "Core\\Blog.Application\\Behaviors\\ValidationBehavior.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T21:24:14.811Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "CreateCategoryValidator.cs",
-              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Validators\\CreateCategoryValidator.cs",
-              "RelativeDocumentMoniker": "Core\\Blog.Application\\Features\\Categories\\Validators\\CreateCategoryValidator.cs",
-              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Validators\\CreateCategoryValidator.cs",
-              "RelativeToolTip": "Core\\Blog.Application\\Features\\Categories\\Validators\\CreateCategoryValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T21:18:16.927Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 6,
               "Title": "CreateCategoryCommand.cs",
               "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Commands\\CreateCategoryCommand.cs",
               "RelativeDocumentMoniker": "Core\\Blog.Application\\Features\\Categories\\Commands\\CreateCategoryCommand.cs",
@@ -433,46 +340,267 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Contracts\\Persistence\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "Core\\Blog.Application\\Contracts\\Persistence\\IUnitOfWork.cs",
-              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Contracts\\Persistence\\IUnitOfWork.cs",
-              "RelativeToolTip": "Core\\Blog.Application\\Contracts\\Persistence\\IUnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "BlogMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Blogs\\Mappings\\BlogMappingProfile.cs",
+              "RelativeDocumentMoniker": "Core\\Blog.Application\\Features\\Blogs\\Mappings\\BlogMappingProfile.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Blogs\\Mappings\\BlogMappingProfile.cs",
+              "RelativeToolTip": "Core\\Blog.Application\\Features\\Blogs\\Mappings\\BlogMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T00:19:50.81Z",
+              "WhenOpened": "2026-03-05T00:58:09.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetBlogsQueryResult.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Blogs\\Result\\GetBlogsQueryResult.cs",
+              "RelativeDocumentMoniker": "Core\\Blog.Application\\Features\\Blogs\\Result\\GetBlogsQueryResult.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Blogs\\Result\\GetBlogsQueryResult.cs",
+              "RelativeToolTip": "Core\\Blog.Application\\Features\\Blogs\\Result\\GetBlogsQueryResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T00:50:45.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Domain\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "Core\\Blog.Domain\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Domain\\Entities\\AppUser.cs",
+              "RelativeToolTip": "Core\\Blog.Domain\\Entities\\AppUser.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T00:21:42.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Users\\Handlers\\CreateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Blog.Application\\Features\\Users\\Handlers\\CreateUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Users\\Handlers\\CreateUserCommandHandler.cs",
+              "RelativeToolTip": "Core\\Blog.Application\\Features\\Users\\Handlers\\CreateUserCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T01:20:04.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Users\\Commands\\CreateUserCommand.cs",
+              "RelativeDocumentMoniker": "Core\\Blog.Application\\Features\\Users\\Commands\\CreateUserCommand.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Users\\Commands\\CreateUserCommand.cs",
+              "RelativeToolTip": "Core\\Blog.Application\\Features\\Users\\Commands\\CreateUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T01:18:22.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserEndPoints.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Presentation\\Blog.API\\Endpoints\\UserEndPoints.cs",
+              "RelativeDocumentMoniker": "Presentation\\Blog.API\\Endpoints\\UserEndPoints.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Presentation\\Blog.API\\Endpoints\\UserEndPoints.cs",
+              "RelativeToolTip": "Presentation\\Blog.API\\Endpoints\\UserEndPoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T01:39:42.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuditDbContextInterceptor.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Infrastructure\\Blog.Persistence\\Interceptors\\AuditDbContextInterceptor.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Blog.Persistence\\Interceptors\\AuditDbContextInterceptor.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Infrastructure\\Blog.Persistence\\Interceptors\\AuditDbContextInterceptor.cs",
+              "RelativeToolTip": "Infrastructure\\Blog.Persistence\\Interceptors\\AuditDbContextInterceptor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T22:33:56.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsingMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Users\\Mappings\\UsingMappingProfile.cs",
+              "RelativeDocumentMoniker": "Core\\Blog.Application\\Features\\Users\\Mappings\\UsingMappingProfile.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Users\\Mappings\\UsingMappingProfile.cs",
+              "RelativeToolTip": "Core\\Blog.Application\\Features\\Users\\Mappings\\UsingMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T01:26:42.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateUserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Users\\Validator\\CreateUserValidator.cs",
+              "RelativeDocumentMoniker": "Core\\Blog.Application\\Features\\Users\\Validator\\CreateUserValidator.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Users\\Validator\\CreateUserValidator.cs",
+              "RelativeToolTip": "Core\\Blog.Application\\Features\\Users\\Validator\\CreateUserValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T01:44:16.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Presentation\\Blog.API\\Endpoints\\CategoryEndpoints.cs",
+              "RelativeDocumentMoniker": "Presentation\\Blog.API\\Endpoints\\CategoryEndpoints.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Presentation\\Blog.API\\Endpoints\\CategoryEndpoints.cs",
+              "RelativeToolTip": "Presentation\\Blog.API\\Endpoints\\CategoryEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T20:42:02.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EndpointRegistrations.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Presentation\\Blog.API\\Endpoints\\Registration\\EndpointRegistrations.cs",
+              "RelativeDocumentMoniker": "Presentation\\Blog.API\\Endpoints\\Registration\\EndpointRegistrations.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Presentation\\Blog.API\\Endpoints\\Registration\\EndpointRegistrations.cs",
+              "RelativeToolTip": "Presentation\\Blog.API\\Endpoints\\Registration\\EndpointRegistrations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T20:48:38.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BaseResult.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Base\\BaseResult.cs",
+              "RelativeDocumentMoniker": "Core\\Blog.Application\\Features\\Base\\BaseResult.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Base\\BaseResult.cs",
+              "RelativeToolTip": "Core\\Blog.Application\\Features\\Base\\BaseResult.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwEEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T00:58:27.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetCategoryQuery.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Queries\\GetCategoryQuery.cs",
+              "RelativeDocumentMoniker": "Core\\Blog.Application\\Features\\Categories\\Queries\\GetCategoryQuery.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Queries\\GetCategoryQuery.cs",
+              "RelativeToolTip": "Core\\Blog.Application\\Features\\Categories\\Queries\\GetCategoryQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T00:56:39.217Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Infrastructure\\Blog.Persistence\\Concrete\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Blog.Persistence\\Concrete\\UnitOfWork.cs",
-              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Infrastructure\\Blog.Persistence\\Concrete\\UnitOfWork.cs",
-              "RelativeToolTip": "Infrastructure\\Blog.Persistence\\Concrete\\UnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAA2AAAAAAAAAA==",
+              "Title": "GetCategoryByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Queries\\GetCategoryByIdQuery.cs",
+              "RelativeDocumentMoniker": "Core\\Blog.Application\\Features\\Categories\\Queries\\GetCategoryByIdQuery.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Queries\\GetCategoryByIdQuery.cs",
+              "RelativeToolTip": "Core\\Blog.Application\\Features\\Categories\\Queries\\GetCategoryByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T00:20:52.1Z",
+              "WhenOpened": "2026-02-27T21:54:15.777Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Infrastructure\\Blog.Persistence\\Concrete\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Blog.Persistence\\Concrete\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Infrastructure\\Blog.Persistence\\Concrete\\GenericRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Blog.Persistence\\Concrete\\GenericRepository.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAUwCsAAAASAAAAAAAAAA==",
+              "DocumentIndex": 21,
+              "Title": "CreateCategoryCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Handlers\\CreateCategoryCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Blog.Application\\Features\\Categories\\Handlers\\CreateCategoryCommandHandler.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Handlers\\CreateCategoryCommandHandler.cs",
+              "RelativeToolTip": "Core\\Blog.Application\\Features\\Categories\\Handlers\\CreateCategoryCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T00:07:34.743Z",
+              "WhenOpened": "2026-02-27T21:10:17.249Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
+              "Title": "20260305004743_relationbetweenblogandcomment.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Infrastructure\\Blog.Persistence\\Migrations\\20260305004743_relationbetweenblogandcomment.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Blog.Persistence\\Migrations\\20260305004743_relationbetweenblogandcomment.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Infrastructure\\Blog.Persistence\\Migrations\\20260305004743_relationbetweenblogandcomment.cs",
+              "RelativeToolTip": "Infrastructure\\Blog.Persistence\\Migrations\\20260305004743_relationbetweenblogandcomment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T00:47:44.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "eBlog.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Domain\\Entities\\eBlog.cs",
+              "RelativeDocumentMoniker": "Core\\Blog.Domain\\Entities\\eBlog.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Domain\\Entities\\eBlog.cs",
+              "RelativeToolTip": "Core\\Blog.Domain\\Entities\\eBlog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T23:05:03.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Domain\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "Core\\Blog.Domain\\Entities\\Comment.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Domain\\Entities\\Comment.cs",
+              "RelativeToolTip": "Core\\Blog.Domain\\Entities\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T00:12:25.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SubComment.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Domain\\Entities\\SubComment.cs",
+              "RelativeDocumentMoniker": "Core\\Blog.Domain\\Entities\\SubComment.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Domain\\Entities\\SubComment.cs",
+              "RelativeToolTip": "Core\\Blog.Domain\\Entities\\SubComment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T00:14:55.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ServiceRegistrations.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Infrastructure\\Blog.Persistence\\Extensions\\ServiceRegistrations.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Blog.Persistence\\Extensions\\ServiceRegistrations.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Infrastructure\\Blog.Persistence\\Extensions\\ServiceRegistrations.cs",
+              "RelativeToolTip": "Infrastructure\\Blog.Persistence\\Extensions\\ServiceRegistrations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T23:42:56.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "Social.cs",
               "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Domain\\Entities\\Social.cs",
               "RelativeDocumentMoniker": "Core\\Blog.Domain\\Entities\\Social.cs",
@@ -485,176 +613,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "BaseResult.cs",
-              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Base\\BaseResult.cs",
-              "RelativeDocumentMoniker": "Core\\Blog.Application\\Features\\Base\\BaseResult.cs",
-              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Base\\BaseResult.cs",
-              "RelativeToolTip": "Core\\Blog.Application\\Features\\Base\\BaseResult.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAIwA8AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T00:58:27.704Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Presentation\\Blog.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Presentation\\Blog.API\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Presentation\\Blog.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Presentation\\Blog.API\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-27T20:56:26.054Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "EndpointRegistrations.cs",
-              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Presentation\\Blog.API\\Endpoints\\Registration\\EndpointRegistrations.cs",
-              "RelativeDocumentMoniker": "Presentation\\Blog.API\\Endpoints\\Registration\\EndpointRegistrations.cs",
-              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Presentation\\Blog.API\\Endpoints\\Registration\\EndpointRegistrations.cs",
-              "RelativeToolTip": "Presentation\\Blog.API\\Endpoints\\Registration\\EndpointRegistrations.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T20:48:38.918Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "Blog.Application.csproj",
-              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Blog.Application.csproj",
-              "RelativeDocumentMoniker": "Core\\Blog.Application\\Blog.Application.csproj",
-              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Blog.Application.csproj",
-              "RelativeToolTip": "Core\\Blog.Application\\Blog.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAxwBQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-04T01:25:08.717Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Domain\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "Core\\Blog.Domain\\Entities\\Category.cs",
-              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Domain\\Entities\\Category.cs",
-              "RelativeToolTip": "Core\\Blog.Domain\\Entities\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T23:03:42.192Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 28,
-              "Title": "BaseEntitiy.cs",
-              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Domain\\Entities\\Common\\BaseEntitiy.cs",
-              "RelativeDocumentMoniker": "Core\\Blog.Domain\\Entities\\Common\\BaseEntitiy.cs",
-              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Domain\\Entities\\Common\\BaseEntitiy.cs",
-              "RelativeToolTip": "Core\\Blog.Domain\\Entities\\Common\\BaseEntitiy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T23:02:40.499Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Contracts\\Persistence\\IRepository.cs",
-              "RelativeDocumentMoniker": "Core\\Blog.Application\\Contracts\\Persistence\\IRepository.cs",
-              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Contracts\\Persistence\\IRepository.cs",
-              "RelativeToolTip": "Core\\Blog.Application\\Contracts\\Persistence\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T00:01:37.155Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "20260203235759_mig_inital.cs",
-              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Infrastructure\\Blog.Persistence\\Migrations\\20260203235759_mig_inital.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Blog.Persistence\\Migrations\\20260203235759_mig_inital.cs",
-              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Infrastructure\\Blog.Persistence\\Migrations\\20260203235759_mig_inital.cs",
-              "RelativeToolTip": "Infrastructure\\Blog.Persistence\\Migrations\\20260203235759_mig_inital.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAgwGwAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T23:58:00.19Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Infrastructure\\Blog.Persistence\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Blog.Persistence\\Context\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Infrastructure\\Blog.Persistence\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "Infrastructure\\Blog.Persistence\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T23:20:04.732Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Blog.Persistence.csproj",
-              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Infrastructure\\Blog.Persistence\\Blog.Persistence.csproj",
-              "RelativeDocumentMoniker": "Infrastructure\\Blog.Persistence\\Blog.Persistence.csproj",
-              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Infrastructure\\Blog.Persistence\\Blog.Persistence.csproj",
-              "RelativeToolTip": "Infrastructure\\Blog.Persistence\\Blog.Persistence.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-03T23:52:39.721Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "secrets.json",
-              "DocumentMoniker": "C:\\Users\\yigit\\AppData\\Roaming\\Microsoft\\UserSecrets\\f534fb5f-d6eb-4842-ae03-55fe27188848\\secrets.json",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\f534fb5f-d6eb-4842-ae03-55fe27188848\\secrets.json",
-              "ToolTip": "C:\\Users\\yigit\\AppData\\Roaming\\Microsoft\\UserSecrets\\f534fb5f-d6eb-4842-ae03-55fe27188848\\secrets.json",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\f534fb5f-d6eb-4842-ae03-55fe27188848\\secrets.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-03T23:37:13.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "eBlog.cs",
-              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Domain\\Entities\\eBlog.cs",
-              "RelativeDocumentMoniker": "Core\\Blog.Domain\\Entities\\eBlog.cs",
-              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Domain\\Entities\\eBlog.cs",
-              "RelativeToolTip": "Core\\Blog.Domain\\Entities\\eBlog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T23:05:03.406Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
               "Title": "Message.cs",
               "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Domain\\Entities\\Message.cs",
               "RelativeDocumentMoniker": "Core\\Blog.Domain\\Entities\\Message.cs",
               "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Domain\\Entities\\Message.cs",
               "RelativeToolTip": "Core\\Blog.Domain\\Entities\\Message.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-03T23:09:27.505Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 29,
               "Title": "ContacInfo.cs",
               "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Domain\\Entities\\ContacInfo.cs",
               "RelativeDocumentMoniker": "Core\\Blog.Domain\\Entities\\ContacInfo.cs",
@@ -667,7 +639,358 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Core\\Blog.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "Core\\Blog.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T23:03:42.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Domain\\Entities\\AppRole.cs",
+              "RelativeDocumentMoniker": "Core\\Blog.Domain\\Entities\\AppRole.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Domain\\Entities\\AppRole.cs",
+              "RelativeToolTip": "Core\\Blog.Domain\\Entities\\AppRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T00:24:10.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20260305003626_identityAdded.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Infrastructure\\Blog.Persistence\\Migrations\\20260305003626_identityAdded.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Blog.Persistence\\Migrations\\20260305003626_identityAdded.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Infrastructure\\Blog.Persistence\\Migrations\\20260305003626_identityAdded.cs",
+              "RelativeToolTip": "Infrastructure\\Blog.Persistence\\Migrations\\20260305003626_identityAdded.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAgwLsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T00:36:26.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CategoryMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Mappings\\CategoryMappingProfile.cs",
+              "RelativeDocumentMoniker": "Core\\Blog.Application\\Features\\Categories\\Mappings\\CategoryMappingProfile.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Mappings\\CategoryMappingProfile.cs",
+              "RelativeToolTip": "Core\\Blog.Application\\Features\\Categories\\Mappings\\CategoryMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T01:14:49.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RemoveCategoryCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Handlers\\RemoveCategoryCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Blog.Application\\Features\\Categories\\Handlers\\RemoveCategoryCommandHandler.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Handlers\\RemoveCategoryCommandHandler.cs",
+              "RelativeToolTip": "Core\\Blog.Application\\Features\\Categories\\Handlers\\RemoveCategoryCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T23:32:24.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UpdateCategoryCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Handlers\\UpdateCategoryCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Blog.Application\\Features\\Categories\\Handlers\\UpdateCategoryCommandHandler.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Handlers\\UpdateCategoryCommandHandler.cs",
+              "RelativeToolTip": "Core\\Blog.Application\\Features\\Categories\\Handlers\\UpdateCategoryCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T22:58:11.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Contracts\\Persistence\\IRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Blog.Application\\Contracts\\Persistence\\IRepository.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Contracts\\Persistence\\IRepository.cs",
+              "RelativeToolTip": "Core\\Blog.Application\\Contracts\\Persistence\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T00:01:37.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 37,
+              "Title": "BaseDto.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Base\\BaseDto.cs",
+              "RelativeDocumentMoniker": "Core\\Blog.Application\\Features\\Base\\BaseDto.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Base\\BaseDto.cs",
+              "RelativeToolTip": "Core\\Blog.Application\\Features\\Base\\BaseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T00:53:31.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UpdateCategoryValidator.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Validators\\UpdateCategoryValidator.cs",
+              "RelativeDocumentMoniker": "Core\\Blog.Application\\Features\\Categories\\Validators\\UpdateCategoryValidator.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Validators\\UpdateCategoryValidator.cs",
+              "RelativeToolTip": "Core\\Blog.Application\\Features\\Categories\\Validators\\UpdateCategoryValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T23:20:25.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Presentation\\Blog.API\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Blog.API\\Program.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Presentation\\Blog.API\\Program.cs",
+              "RelativeToolTip": "Presentation\\Blog.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T23:47:30.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CustomExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Presentation\\Blog.API\\CustomMiddlewares\\CustomExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Presentation\\Blog.API\\CustomMiddlewares\\CustomExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Presentation\\Blog.API\\CustomMiddlewares\\CustomExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "Presentation\\Blog.API\\CustomMiddlewares\\CustomExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T21:37:29.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GetCategoryQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Handlers\\GetCategoryQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Blog.Application\\Features\\Categories\\Handlers\\GetCategoryQueryHandler.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Handlers\\GetCategoryQueryHandler.cs",
+              "RelativeToolTip": "Core\\Blog.Application\\Features\\Categories\\Handlers\\GetCategoryQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T01:09:42.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Contracts\\Persistence\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Core\\Blog.Application\\Contracts\\Persistence\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Contracts\\Persistence\\IUnitOfWork.cs",
+              "RelativeToolTip": "Core\\Blog.Application\\Contracts\\Persistence\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T00:19:50.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GetCategoryByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Handlers\\GetCategoryByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Blog.Application\\Features\\Categories\\Handlers\\GetCategoryByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Handlers\\GetCategoryByIdQueryHandler.cs",
+              "RelativeToolTip": "Core\\Blog.Application\\Features\\Categories\\Handlers\\GetCategoryByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T21:58:37.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ServiceRegistrations.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Extensions\\ServiceRegistrations.cs",
+              "RelativeDocumentMoniker": "Core\\Blog.Application\\Extensions\\ServiceRegistrations.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Extensions\\ServiceRegistrations.cs",
+              "RelativeToolTip": "Core\\Blog.Application\\Extensions\\ServiceRegistrations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T01:17:27.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "GetCategoryByIdQueryResult.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Results\\GetCategoryByIdQueryResult.cs",
+              "RelativeDocumentMoniker": "Core\\Blog.Application\\Features\\Categories\\Results\\GetCategoryByIdQueryResult.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Results\\GetCategoryByIdQueryResult.cs",
+              "RelativeToolTip": "Core\\Blog.Application\\Features\\Categories\\Results\\GetCategoryByIdQueryResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T21:55:24.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GetCategoryQueryResult.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Results\\GetCategoryQueryResult.cs",
+              "RelativeDocumentMoniker": "Core\\Blog.Application\\Features\\Categories\\Results\\GetCategoryQueryResult.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Results\\GetCategoryQueryResult.cs",
+              "RelativeToolTip": "Core\\Blog.Application\\Features\\Categories\\Results\\GetCategoryQueryResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T00:52:26.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "Core\\Blog.Application\\Behaviors\\ValidationBehavior.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeToolTip": "Core\\Blog.Application\\Behaviors\\ValidationBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T21:24:14.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CreateCategoryValidator.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Validators\\CreateCategoryValidator.cs",
+              "RelativeDocumentMoniker": "Core\\Blog.Application\\Features\\Categories\\Validators\\CreateCategoryValidator.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Features\\Categories\\Validators\\CreateCategoryValidator.cs",
+              "RelativeToolTip": "Core\\Blog.Application\\Features\\Categories\\Validators\\CreateCategoryValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T21:18:16.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Infrastructure\\Blog.Persistence\\Concrete\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Blog.Persistence\\Concrete\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Infrastructure\\Blog.Persistence\\Concrete\\UnitOfWork.cs",
+              "RelativeToolTip": "Infrastructure\\Blog.Persistence\\Concrete\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T00:20:52.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Infrastructure\\Blog.Persistence\\Concrete\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Blog.Persistence\\Concrete\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Infrastructure\\Blog.Persistence\\Concrete\\GenericRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Blog.Persistence\\Concrete\\GenericRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwCsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T00:07:34.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Presentation\\Blog.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Presentation\\Blog.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Presentation\\Blog.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Presentation\\Blog.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-27T20:56:26.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Blog.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Blog.Application.csproj",
+              "RelativeDocumentMoniker": "Core\\Blog.Application\\Blog.Application.csproj",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Application\\Blog.Application.csproj",
+              "RelativeToolTip": "Core\\Blog.Application\\Blog.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-04T01:25:08.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "BaseEntitiy.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Domain\\Entities\\Common\\BaseEntitiy.cs",
+              "RelativeDocumentMoniker": "Core\\Blog.Domain\\Entities\\Common\\BaseEntitiy.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Domain\\Entities\\Common\\BaseEntitiy.cs",
+              "RelativeToolTip": "Core\\Blog.Domain\\Entities\\Common\\BaseEntitiy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T23:02:40.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20260203235759_mig_inital.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Infrastructure\\Blog.Persistence\\Migrations\\20260203235759_mig_inital.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Blog.Persistence\\Migrations\\20260203235759_mig_inital.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Infrastructure\\Blog.Persistence\\Migrations\\20260203235759_mig_inital.cs",
+              "RelativeToolTip": "Infrastructure\\Blog.Persistence\\Migrations\\20260203235759_mig_inital.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAgwGwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T23:58:00.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Blog.Persistence.csproj",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Infrastructure\\Blog.Persistence\\Blog.Persistence.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Blog.Persistence\\Blog.Persistence.csproj",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Infrastructure\\Blog.Persistence\\Blog.Persistence.csproj",
+              "RelativeToolTip": "Infrastructure\\Blog.Persistence\\Blog.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-03T23:52:39.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\yigit\\AppData\\Roaming\\Microsoft\\UserSecrets\\f534fb5f-d6eb-4842-ae03-55fe27188848\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\f534fb5f-d6eb-4842-ae03-55fe27188848\\secrets.json",
+              "ToolTip": "C:\\Users\\yigit\\AppData\\Roaming\\Microsoft\\UserSecrets\\f534fb5f-d6eb-4842-ae03-55fe27188848\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\f534fb5f-d6eb-4842-ae03-55fe27188848\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-03T23:37:13.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
               "Title": "Blog.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\BlogSheet\\BlogServer\\Core\\Blog.Domain\\Blog.Domain.csproj",
               "RelativeDocumentMoniker": "Core\\Blog.Domain\\Blog.Domain.csproj",

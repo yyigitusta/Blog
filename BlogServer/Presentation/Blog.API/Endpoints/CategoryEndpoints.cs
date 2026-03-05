@@ -32,6 +32,21 @@ namespace Blog.API.Endpoints
                 return response.IsSuccess ? Results.Ok(response)
                     : Results.BadRequest(response);
             });
+
+            categories.MapPut(string.Empty, async (UpdateCategoryCommand command, IMediator _mediator) =>
+            {
+                var response = await _mediator.Send(command);
+                return response.IsSuccess ? Results.Ok(response)
+                    : Results.BadRequest(response);
+            });
+
+            categories.MapDelete("{id}", async (Guid id, IMediator _mediator) =>
+            {
+                var response = await _mediator.Send(new RemoveCategoryCommand(id));
+                return response.IsSuccess ? Results.Ok(response)
+                    : Results.BadRequest(response);
+            });
+
         }
     }
 }

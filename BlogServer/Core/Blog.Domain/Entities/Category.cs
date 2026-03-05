@@ -10,6 +10,6 @@ namespace Blog.Domain.Entities;
     public class Category: BaseEntitiy
     {
     public string CategoryName { get; set; }
-    public IList<eBlog> Blogs { get; set; }
+    public virtual IList<eBlog> Blogs { get; set; }
 }
 

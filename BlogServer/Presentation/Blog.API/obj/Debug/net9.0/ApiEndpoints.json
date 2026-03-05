@@ -45,6 +45,31 @@
   },
   {
     "ContainingType": "Blog.API.Endpoints.CategoryEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CRegisterCategoryEndpoints\u003Eb__0_3",
+    "RelativePath": "api/categories/",
+    "HttpMethod": "PUT",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Blog.Application.Features.Categories.Commands.UpdateCategoryCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Categories"
+    ]
+  },
+  {
+    "ContainingType": "Blog.API.Endpoints.CategoryEndpoints\u002B\u003C\u003Ec",
     "Method": "\u003CRegisterCategoryEndpoints\u003Eb__0_2",
     "RelativePath": "api/categories/{id}",
     "HttpMethod": "GET",

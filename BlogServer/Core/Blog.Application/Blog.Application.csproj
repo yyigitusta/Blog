@@ -17,4 +17,11 @@
     <PackageReference Include="MediatR" Version="14.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Features\Blogs\Commands\" />
+    <Folder Include="Features\Blogs\Validator\" />
+    <Folder Include="Features\Users\Quaries\" />
+    <Folder Include="Features\Users\Result\" />
+  </ItemGroup>
+
 </Project>

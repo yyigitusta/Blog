@@ -1,4 +1,5 @@
 ﻿using Blog.Domain.Entities;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -8,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Blog.Persistence.Context
 {
-    public class AppDbContext(DbContextOptions options) : DbContext(options)
+    public class AppDbContext(DbContextOptions options) : IdentityDbContext<AppUser,AppRole,string>(options)
     {
       public DbSet<Category> Categories { get; set; }
       public DbSet<eBlog> eBlogs { get; set; }

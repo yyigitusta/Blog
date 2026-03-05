@@ -9,3 +9,5 @@ C:\Users\yigit\Desktop\BlogSheet\BlogServer\Core\Blog.Domain\obj\Debug\net9.0\Bl
 C:\Users\yigit\Desktop\BlogSheet\BlogServer\Core\Blog.Domain\obj\Debug\net9.0\refint\Blog.Domain.dll
 C:\Users\yigit\Desktop\BlogSheet\BlogServer\Core\Blog.Domain\obj\Debug\net9.0\Blog.Domain.pdb
 C:\Users\yigit\Desktop\BlogSheet\BlogServer\Core\Blog.Domain\obj\Debug\net9.0\ref\Blog.Domain.dll
+C:\Users\yigit\Desktop\BlogSheet\BlogServer\Core\Blog.Domain\obj\Debug\net9.0\Blog.Domain.csproj.AssemblyReference.cache
+C:\Users\yigit\Desktop\BlogSheet\BlogServer\Core\Blog.Domain\obj\Debug\net9.0\Blog.Domain.sourcelink.json
