@@ -6,9 +6,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Blog.Application.Features.Categories.Commands
+namespace Blog.Application.Features.Blogs.Commands
 {
-    public record CreateCategoryCommand(string CategoryName) : IRequest<BaseResult<object>>;
-
-
+    public record RemoveBlogCommand(Guid Id) : IRequest<BaseResult<object>>;
+    
 }

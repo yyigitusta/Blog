@@ -18,10 +18,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Features\Blogs\Commands\" />
-    <Folder Include="Features\Blogs\Validator\" />
     <Folder Include="Features\Users\Quaries\" />
-    <Folder Include="Features\Users\Result\" />
+    <Folder Include="Features\Users\Results\" />
   </ItemGroup>
 
 </Project>
