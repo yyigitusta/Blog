@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using Blog.Application.Features.Users.Commands;
+using Blog.Application.Features.Users.Quaries;
 using Blog.Domain.Entities;
 using System;
 using System.Collections.Generic;
@@ -14,6 +15,7 @@ namespace Blog.Application.Features.Users.Mappings
         public UsingMappingProfile()
         {
             CreateMap<AppUser, CreateUserCommand>().ReverseMap();
+            CreateMap<AppUser, GetUserQueryResult>().ReverseMap();
         }
     }
 }
