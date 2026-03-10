@@ -10,7 +10,7 @@ namespace Blog.Domain.Entities
     public class Social:BaseEntitiy
     {
         public string Title { get; set; }
-        public string Url { get; set; }
+        public string  Url { get; set; }
         public string Icon { get; set; }
     }
 }
