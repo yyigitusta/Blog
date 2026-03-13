@@ -9,12 +9,12 @@ namespace Blog.API.Endpoints
         public static void RegisterSubCommentEndpoints(this IEndpointRouteBuilder app)
         {
             var subComments = app.MapGroup("/subcomments").WithTags("SubComments");
-            subComments.MapPost(string.Empty, async (IMediator mediator, AddSubCommentCommand command) =>
+            subComments.MapPost(string.Empty, async (IMediator mediator, [AsParameters] AddSubCommentCommand command) =>
             {
                 var response = await mediator.Send(command);
                 return response.IsSuccess ? Results.Ok(response) : Results.BadRequest(response);
             });
-            subComments.MapGet("", async (IMediator mediator, GetSubCommentQuery query) =>
+            subComments.MapGet("", async (IMediator mediator, [AsParameters] GetSubCommentQuery query) =>
             {
                 var response = await mediator.Send(query);
                 return response.IsSuccess ? Results.Ok(response) : Results.BadRequest(response);
@@ -23,7 +23,7 @@ namespace Blog.API.Endpoints
             {
                 var response = await mediator.Send(new GetSubCommentByIdQuery(id));
             });
-            subComments.MapPut("", async (Mediator mediator, UpdateSubCommentCommand command) =>
+            subComments.MapPut("", async (IMediator mediator, [AsParameters] UpdateSubCommentCommand command) =>
             {
                 var response = await mediator.Send(command);
                 return response.IsSuccess ? Results.Ok(response) : Results.BadRequest(response);

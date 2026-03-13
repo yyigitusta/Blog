@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 
 namespace Blog.Application.Features.Socials.CommandHandlers
 {
-    public class UpdateSocialCommandHandlers(IRepository<Social> repository , IUnitOfWork unitOfWork ,Mapper mapper ) : IRequestHandler<UpdateSocialCommand, BaseResult<object>>
+    public class UpdateSocialCommandHandlers(IRepository<Social> repository , IUnitOfWork unitOfWork ,IMapper mapper ) : IRequestHandler<UpdateSocialCommand, BaseResult<object>>
     {
         public async Task<BaseResult<object>> Handle(UpdateSocialCommand request, CancellationToken cancellationToken)
         {

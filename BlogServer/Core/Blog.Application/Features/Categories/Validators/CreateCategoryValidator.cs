@@ -12,7 +12,7 @@ namespace Blog.Application.Features.Categories.Validators
     {
         public CreateCategoryValidator()
         {
-            RuleFor(c => c.CategoryName)
+            RuleFor(c => c.categoryName)
                 .NotEmpty().WithMessage("Category name is required.")
                 .MinimumLength(3).WithMessage("Category name must be at least 3 char");
         }

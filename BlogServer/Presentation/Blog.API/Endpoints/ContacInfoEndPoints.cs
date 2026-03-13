@@ -1,6 +1,7 @@
 ﻿using Blog.Application.Features.ContacInfos.Command;
 using Blog.Application.Features.ContacInfos.Queries;
 using MediatR;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Blog.API.Endpoints
 {
@@ -19,12 +20,12 @@ namespace Blog.API.Endpoints
                 var response = await mediator.Send(new GetContacInfoByIdQuery(id));
                 return response.IsSuccess ? Results.Ok(response) : Results.BadRequest(response);
             });
-            contactInfo.MapPost(string.Empty, async (CreateContactInfoCommand command, IMediator mediator) =>
+            contactInfo.MapPost(string.Empty, async ([AsParameters] CreateContactInfoCommand command, IMediator mediator) =>
             {
                 var response = await mediator.Send(command);
                 return response.IsSuccess ? Results.Ok(response) : Results.BadRequest(response);
             });
-            contactInfo.MapPut("{id}", async (Guid id, UpdateContactInfoCommand command, IMediator mediator) =>
+            contactInfo.MapPut("{id}", async (Guid id, [FromBody] UpdateContactInfoCommand command, IMediator mediator) =>
             {
                 if (id != command.Id)
                 {
@@ -33,7 +34,7 @@ namespace Blog.API.Endpoints
                 var response = await mediator.Send(command);
                 return response.IsSuccess ? Results.Ok(response) : Results.BadRequest(response);
             });
-            contactInfo.MapDelete("{id}", async (Guid id, RemoveContacInfoCommand command, IMediator mediator) =>
+            contactInfo.MapDelete("{id}", async (Guid id, [FromBody] RemoveContacInfoCommand command, IMediator mediator) =>
             {
                 if (id != command.id)
                 {

@@ -14,7 +14,7 @@ namespace Blog.API.Endpoints
                 var response = await mediator.Send(new GetCommentsQuery());
                 return response.IsSuccess ? Results.Ok(response) : Results.BadRequest(response);
             });
-            comments.MapPost(string.Empty, async (CreateCommentCommand command,IMediator mediator) =>
+            comments.MapPost(string.Empty, async ([AsParameters] CreateCommentCommand command,IMediator mediator) =>
             {
                 var response = await mediator.Send(command);
                 return response.IsSuccess ? Results.Ok(response) : Results.BadRequest(response);
@@ -24,7 +24,7 @@ namespace Blog.API.Endpoints
                 var response = await mediator.Send(new GetCommentByIdQuery(id));
                 return response.IsSuccess ? Results.Ok(response) : Results.BadRequest(response);
             });
-            comments.MapPut(string.Empty, async (UpdateCommentCommand command, IMediator mediator) =>
+            comments.MapPut(string.Empty, async ([AsParameters] UpdateCommentCommand command, IMediator mediator) =>
             {
                 var response = await mediator.Send(command);
                 return response.IsSuccess ? Results.Ok(response) : Results.BadRequest(response);

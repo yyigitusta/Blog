@@ -19,7 +19,7 @@ namespace Blog.API.Endpoints
             }
             );
 
-            categories.MapPost(string.Empty, async (CreateCategoryCommand command, IMediator _mediator) =>
+            categories.MapPost(string.Empty, async ([AsParameters] CreateCategoryCommand command,  IMediator _mediator) =>
             {
                 var response = await _mediator.Send(command);
                 return response.IsSuccess ? Results.Ok(response)
@@ -33,7 +33,7 @@ namespace Blog.API.Endpoints
                     : Results.BadRequest(response);
             });
 
-            categories.MapPut(string.Empty, async (UpdateCategoryCommand command, IMediator _mediator) =>
+            categories.MapPut(string.Empty, async ([AsParameters] UpdateCategoryCommand command, IMediator _mediator) =>
             {
                 var response = await _mediator.Send(command);
                 return response.IsSuccess ? Results.Ok(response)

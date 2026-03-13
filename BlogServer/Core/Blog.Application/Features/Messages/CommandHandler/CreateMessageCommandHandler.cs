@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 
 namespace Blog.Application.Features.Messages.CommandHandler
 {
-    public class CreateMessageCommandHandler(IUnitOfWork unitOfWork , Mapper mapper , IRepository<Message> repository) : IRequestHandler<CreateMessageCommand, BaseResult<object>>
+    public class CreateMessageCommandHandler(IUnitOfWork unitOfWork , IMapper mapper , IRepository<Message> repository) : IRequestHandler<CreateMessageCommand, BaseResult<object>>
     {
         public async  Task<BaseResult<object>> Handle(CreateMessageCommand request, CancellationToken cancellationToken)
         {

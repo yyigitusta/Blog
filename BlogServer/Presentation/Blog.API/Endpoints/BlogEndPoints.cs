@@ -18,9 +18,9 @@ namespace Blog.API.Endpoints
                     : Results.BadRequest(response);
             }
             );
-            blogs.MapPost(string.Empty, async (CreateBlogCommand command, IMediator _mediator) =>
+            blogs.MapPost(string.Empty, async ( IMediator _mediator) =>
             {
-                var response = await _mediator.Send(command);
+                var response = await _mediator.Send(new CreateBlogCommand());
                 return response.IsSuccess ? Results.Ok(response)
                     : Results.BadRequest(response);
             });
@@ -30,10 +30,10 @@ namespace Blog.API.Endpoints
                 return response.IsSuccess ? Results.Ok(response)
                     : Results.BadRequest(response);
             });
-            blogs.MapPut(string.Empty, async (UpdateBlogCommand command, IMediator _mediator) =>
+            blogs.MapPut(string.Empty, async ( IMediator _mediator) =>
             {
 
-                var response = await _mediator.Send(command);
+                var response = await _mediator.Send(new UpdateBlogCommand());
                 return response.IsSuccess ? Results.Ok(response)
                     : Results.BadRequest(response);
             });

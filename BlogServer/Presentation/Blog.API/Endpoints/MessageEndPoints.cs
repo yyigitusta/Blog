@@ -1,6 +1,7 @@
 ﻿using Blog.Application.Features.Messages.Command;
 using Blog.Application.Features.Messages.Queries;
 using MediatR;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Blog.API.Endpoints
 {
@@ -20,7 +21,7 @@ namespace Blog.API.Endpoints
                 return response.IsSuccess ? Results.Ok(response) : Results.BadRequest(response);
 
             });
-            messages.MapPut("{id}" , async (Guid id , UdpateMessageCommand command , IMediator mediator) =>
+            messages.MapPut("{id}" , async (Guid id , [AsParameters] UdpateMessageCommand command , IMediator mediator) =>
             {
                 if (id != command.Id)
                 {

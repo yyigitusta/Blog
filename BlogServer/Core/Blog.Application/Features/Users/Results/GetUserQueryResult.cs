@@ -1,12 +1,13 @@
-﻿using System;
+﻿using Blog.Application.Features.Base;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Blog.Application.Features.Users.Quaries
+namespace Blog.Application.Features.Users.Results
 {
-    public   class GetUserQueryResult
+    public   class GetUserQueryResult : BaseDto
     {
         public string Id { get; set; }
         public string FirstName { get; set; }

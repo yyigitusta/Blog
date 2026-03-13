@@ -1,6 +1,6 @@
 ﻿using Blog.Application.Features.Base;
 using Blog.Application.Features.Comments.Results;
-using Blog.Application.Features.Users.Quaries;
+using Blog.Application.Features.Users.Results;
 using Blog.Domain.Entities;
 using System;
 using System.Collections.Generic;

@@ -1,6 +1,7 @@
 ﻿using Blog.Application.Features.Socials.Commands;
 using Blog.Application.Features.Socials.Queries;
 using MediatR;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Blog.API.Endpoints
 {
@@ -19,7 +20,7 @@ namespace Blog.API.Endpoints
                 var response = await mediator.Send(new GetSocialByIdQuery(id));
                 return response.IsSuccess ? Results.Ok(response) : Results.BadRequest(response);
             });
-            social.MapPost("",async(CreateSocialCommand command,IMediator mediator) =>
+            social.MapPost("",async([AsParameters] CreateSocialCommand command,IMediator mediator) =>
             {
                 var response = await mediator.Send(command);
                 return response.IsSuccess ? Results.Ok(response) : Results.BadRequest(response);
@@ -29,7 +30,7 @@ namespace Blog.API.Endpoints
                 var response = await mediator.Send(new DeleteSocialCommand(id));
                 return response.IsSuccess ? Results.Ok(response) : Results.BadRequest(response);
             });
-            social.MapPut("{id}",async(Guid id,UpdateSocialCommand command,IMediator mediator) =>
+            social.MapPut("{id}",async(Guid id, [AsParameters] UpdateSocialCommand command,IMediator mediator) =>
             {
                 if (id != command.Id)
                 {

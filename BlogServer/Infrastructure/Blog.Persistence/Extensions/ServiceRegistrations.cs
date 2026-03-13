@@ -1,8 +1,10 @@
 ﻿using Blog.Application.Contracts.Persistence;
+using Blog.Application.Options;
 using Blog.Domain.Entities;
 using Blog.Persistence.Concrete;
 using Blog.Persistence.Context;
 using Blog.Persistence.Interceptors;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -11,7 +13,7 @@ namespace Blog.Persistence.Extensions
 {
     public static class ServiceRegistrations
     {
-        public static void AddPersistence(this IServiceCollection services,IConfiguration configuration)
+        public static void AddPersistence(this IServiceCollection services, IConfiguration configuration)
         {
             services.AddDbContext<AppDbContext>(options =>
             {
@@ -27,7 +29,32 @@ namespace Blog.Persistence.Extensions
 
             services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddScoped(typeof(IRepository<>), typeof(GenericRepository<>));
+            services.AddScoped<IJwtService, JwtService>();
+
+
+
+
+            services.AddAuthentication(options =>
+            {
+                options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+                options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+
+            }).AddJwtBearer(JwtBearerDefaults.AuthenticationScheme, options =>
+                {
+                  var jwtTokenOptions = configuration.GetSection(nameof(JwtTokenOptions)).Get<JwtTokenOptions>();
+                    options.TokenValidationParameters = new Microsoft.IdentityModel.Tokens.TokenValidationParameters
+                    {
+                        ValidateIssuer = true,
+                        ValidateAudience = true,
+                        ValidateLifetime = true,
+                        ValidateIssuerSigningKey = true,
+                        ValidIssuer = jwtTokenOptions.Issuer,
+                        ValidAudience = jwtTokenOptions.Audience,
+                        IssuerSigningKey = new Microsoft.IdentityModel.Tokens.SymmetricSecurityKey(System.Text.Encoding.UTF8.GetBytes(jwtTokenOptions.Key)),
+                        ClockSkew = TimeSpan.Zero
+                    };
+                });
+
         }
-        
     }
 }

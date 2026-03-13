@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
 using Blog.Application.Features.Users.Commands;
-using Blog.Application.Features.Users.Quaries;
+using Blog.Application.Features.Users.Results;
 using Blog.Domain.Entities;
 using System;
 using System.Collections.Generic;
